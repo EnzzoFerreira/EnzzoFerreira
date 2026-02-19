@@ -4,7 +4,7 @@
 
 Sou estudante de Desenvolvimento de Sistemas pelo COTUCA, com interesse em programação e tecnologia. Desenvolvo projetos práticos com foco em back-end e desenvolvimento web, buscando aplicar na prática os conhecimentos adquiridos em aula e estudos pessoais.
 
-Possuo conhecimentos em Python, HTML, CSS, JavaScript e Java, além de experiência com versionamento de código utilizando Git e GitHub. Estou em busca de uma oportunidade de estágio na área de TI, onde eu possa aprender, evoluir profissionalmente e contribuir com a equipe.
+Possuo conhecimentos em Python, HTML, CSS, JavaScript, Java e C#. Além de experiência com versionamento de código utilizando Git e GitHub. Estou em busca de uma oportunidade de estágio na área de TI, onde eu possa aprender, evoluir profissionalmente e contribuir com a equipe.
 
 <p align="left">
     <a href="https://github.com/EnzzoFerreira?tab=repositories">
